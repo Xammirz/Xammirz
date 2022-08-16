@@ -18,7 +18,7 @@
 
 - :zap: В свободное время читаю статьи и отдыхаю
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://t.me/Progrqm)
+- :mailbox:Свяжиетесь со мной: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://t.me/Progrqm)
 
 :hammer_and_wrench: Языки и инстурменты :
 
